@@ -78,8 +78,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-  header:
-  image: /assets/images/hamhillstroudswall.png
+header:
+ image: /assets/images/hamhillstroudswall.png
 
 
 footer:
@@ -106,6 +106,8 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        image: /assets/images/hamhillstroudswall.png
   # _pages
   - scope:
       path: "_pages"
@@ -113,6 +115,8 @@ defaults:
     values:
       layout: single # splash wide
       author_profile: true
+      header:
+        image: /assets/images/hamhillstroudswall.png
 
 category_archive:
   type: liquid
