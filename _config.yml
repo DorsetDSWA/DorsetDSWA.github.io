@@ -14,15 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dorset DSWA
+subtitle: Dry Stone Walling Association Dorset Branch
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The art, craft and history of dry stone walls in Dorset and surrounding regions.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
-site.locale: en-GB
+locale: en-GB
 search: true
 
 # Build settings
