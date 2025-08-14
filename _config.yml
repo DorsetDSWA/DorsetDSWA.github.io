@@ -108,6 +108,8 @@ defaults:
       related: true
       header:
         image: /assets/images/hamhillstroudswall.png
+        image_description: "Dry stone wall dividing Strouds Meadow on the Ham Hill plateau"
+        caption: "Photo credit: Paul McNeill"
   # _pages
   - scope:
       path: "_pages"
