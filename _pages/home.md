@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: /assets/images/hamhillstroudswall.png
-excerpt: >
+excerpt:
   Dry Stone Walling Association<br />
   <small>Dorset Branch</small>
 feature_row:
