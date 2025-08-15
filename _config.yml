@@ -22,7 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The art, craft and history of dry stone walls in Dorset and surrounding regions.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "default"
+minimal_mistakes_skin: "dirt" # "sunrise" "air", "aqua", "contrast", "dark", "neon", "mint", "plum", "default"
+logo: "/assets/images/DSWAicon-88x88.png"
 locale: en-GB
 search: true
 
