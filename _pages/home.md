@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/images/hamhillstroudswall.png
+  overlay_image: /assets/images/cortondownwall1280.jpg
 excerpt:
   Dry Stone Walling Association<br />
   <small>Dorset Branch</small>
